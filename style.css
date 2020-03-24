@@ -150,9 +150,9 @@ main img{
 .tinted-image-1 {
   background-image:
   linear-gradient(
-        rgba(0, 0, 0, 0.2),
-        rgba(0, 0, 0, 0.2)),
-        url('img/brush-painting-wall.jpg');
+        rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5)),
+        url('img/AdobeStock_paint.jpeg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
