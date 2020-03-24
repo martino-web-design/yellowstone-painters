@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="" viewBox="0 0 119.195 130.178">
+  <defs>
+    <filter id="Union_1" x="0" y="38.407" width="88.601" height="91.771" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.341"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="brush" x="38.654" y="0" width="80.541" height="80.781" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.341"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="paintbrush" transform="matrix(0.766, 0.643, -0.643, 0.766, 76.986, 5.487)">
+    <g id="handle" transform="translate(4.499 47.032)">
+      <g transform="matrix(0.77, -0.64, 0.64, 0.77, -67, -1.75)" filter="url(#Union_1)">
+        <path id="Union_1-2" data-name="Union 1" d="M1790.087-1387.452a7,7,0,0,0,2.23-1.5,7,7,0,0,0,1.5-2.23,6.973,6.973,0,0,0,.552-2.732v-43.044h7.416a4.678,4.678,0,0,0,4.678-4.679V-1451h-38.379v9.357a4.679,4.679,0,0,0,4.679,4.679h7.569v43.044a6.973,6.973,0,0,0,.552,2.732,7,7,0,0,0,1.5,2.23,6.993,6.993,0,0,0,2.23,1.5,6.974,6.974,0,0,0,2.732.552A6.976,6.976,0,0,0,1790.087-1387.452Zm-1.55-15.866a3.42,3.42,0,0,1,1.091.735,3.42,3.42,0,0,1,.735,1.09,3.414,3.414,0,0,1,.27,1.335,3.414,3.414,0,0,1-.27,1.335,3.424,3.424,0,0,1-.735,1.091,3.419,3.419,0,0,1-1.091.735,3.411,3.411,0,0,1-1.336.27,3.41,3.41,0,0,1-1.335-.27,3.419,3.419,0,0,1-1.091-.735,3.416,3.416,0,0,1-.735-1.091,3.414,3.414,0,0,1-.27-1.335,3.414,3.414,0,0,1,.27-1.335,3.415,3.415,0,0,1,.735-1.09,3.42,3.42,0,0,1,1.091-.735,3.41,3.41,0,0,1,1.335-.27,3.409,3.409,0,0,1,1.336.269Z" transform="matrix(0.77, 0.64, -0.64, 0.77, -2236.92, 19.43)"/>
+      </g>
+    </g>
+    <g transform="matrix(0.77, -0.64, 0.64, 0.77, -62.5, 45.28)" filter="url(#brush)">
+      <path id="brush-2" data-name="brush" d="M37.547-13.287c-1.491-2.27-11.182-8.2-23.038-10.137S-2.076-31.38-3.514-28.835-6.927-12.8-4.114-1.192-1.282,16-1.282,16H37.1a45.019,45.019,0,0,0,0-13.83C35.94-5.833,39.038-11.017,37.547-13.287Z" transform="matrix(0.77, 0.64, -0.64, 0.77, 62.18, 32.12)"/>
+    </g>
+    <path id="Intersection_1" data-name="Intersection 1" d="M106.418,66.051c-1.164-8,2.269-13.379.77-15.649s-11.561-8.013-23.483-9.947S67.029,32.5,65.583,35.045s-3.433,16.037-.6,27.642q.143.586.277,1.154c4.156-1.7,10.526-2.584,19.747.183a113.773,113.773,0,0,0,21.7,4.359Q106.591,67.253,106.418,66.051Z" transform="translate(-63.546 -34.428)"/>
+    <rect id="band" width="38.756" height="4.679" rx="2" transform="translate(4.267 45.785)"/>
+  </g>
+</svg>
